@@ -4,10 +4,10 @@ const ownerNumber = ["557187645787@s.whatsapp.net"]
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
-var gimagenotregister = true
+var gimagenotregister = false
 // quando não há comando registrado o bot procura no google image
 
-var sgooglenotregister = true
+var sgooglenotregister = false
 // quando não há comando registrado o bot procura uma pesquisa no google
 
 const antinewchatmsg = 'O anti chat novo está ativado e você não é meu proprietário, logo será bloqueado'
