@@ -70,6 +70,10 @@ return `
 ┃ ${p}deletelevel
 ┃ ${p}level (n/a, num)
 ┃ ${p}registerlevel
+┣━━━━━⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳━━━━╮
+┃ ${p}resetlimit
+┃ ${p}limitcmd (1 or 0)
+┃ ${p}mylimit
 ┣━━━━━❌ 𝘼𝙉𝙏𝙄 ❌━━━━━╮
 ┃ ${p}antidoc (1 or 0)
 ┃ ${p}antiloc (1 or 0)

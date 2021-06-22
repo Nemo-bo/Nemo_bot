@@ -19,6 +19,8 @@ const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 //mensagem do antipv
 
+const limitqnt = 9999
+
 const delayantispamcmd = 3
 //tempo de delay do antispamcmd (medido por segundos)
 
@@ -169,6 +171,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 
 // Nem ouse mexer aqui se n quiser que de erro
+exports.limitqnt = limitqnt
 exports.urlaudiomenu = urlaudiomenu
 exports.delayantispamcmd = delayantispamcmd
 exports.antinewchatmsg = antinewchatmsg
