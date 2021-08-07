@@ -14,17 +14,9 @@
     </p>
 </h1>
 
-# 🤓 Índice
-- [O que é?](#🤔-O-que-é-?)
-- [Instalação](#⬇️-Instalação)
-- [Mudando as configurações](#🙋‍♂️-Como-mudar-as-configurações-do-bot)
-- [Donate](#🥺-Donate)
-- [Contatos](#🤝-Contato)
-- [Contruibuição](#Contribuição)
 
-# 🤔 O que é ?
 
-O Brizas bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) com api principal do wpp web feita pelo [adiwajshing](https://github.com/adiwajshing/Baileys) e sua equipe. O bot foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais. Se inscreva no meu canal do [Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg) para saber mais sobre o Brizas Orion e de como instalá-lo
+O Nemo bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) com api principal do wpp web feita pelo [adiwajshing](https://github.com/adiwajshing/Baileys) e sua equipe. O bot foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais. Se inscreva no meu canal do [Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg) para saber mais sobre o Brizas Orion e de como instalá-lo
 
 ---
 
@@ -86,32 +78,19 @@ Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.co
 
 ## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> Contribuição
 
-[KillovSky](https://github.com/KillovSky/iris)
 
-[Gabriel](wa.me/+5511946817667)
-
-[Thoth](wa.me/+55d11930758170)
-
-[Italuh](https://github.com/italuH)
-
-[Adiwajshing](https://github.com/adiwajshing)
+[NEMO](wa.me/+595971959183)
 
 Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por ter feito e por fazer o brizas orion o um dos maiores bot de wpp 😘
 
 ---
 
-# 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
-
-Pix
-
-<img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
 
 ---
 # 🤝 Contato
 
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
+[Whatsapp](https://api.whatsapp.com/send/?phone=%2B595971959183&text&app_absent=0)
 
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
+[Instagram ](Instagram.com/nemo_tweets01
 
 
