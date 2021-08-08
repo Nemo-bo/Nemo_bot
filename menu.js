@@ -15,7 +15,7 @@ return `
 ┃ WHATSAPP: WA.ME/+595971959183
 ┃
 ┣━━━⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡━━━╮
-┃ ${p}brizasapi
+┃ ${p}Nemosapi
 ┃ ${p}listblockcmd
 ┃ ${p}listpalavra
 ┃ ${p}info
