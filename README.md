@@ -91,6 +91,6 @@ Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por t
 
 [Whatsapp](https://api.whatsapp.com/send/?phone=%2B595971959183&text&app_absent=0)
 
-[Instagram ](Instagram.com/nemo_tweets01
+[Instagram](Instagram.com/nemo_tweets01
 
 
